@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Thibault 👨‍💻 </h1>
-  <!-- <h2> 💻 Embedded Software Engineer | 🗔 Programming Enthusiast | 🥖 France 🥐</h2> -->
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Thibault 👨‍💻</h1>
+  <h3>(つ✧ω✧)つ(つ✧ω✧)つ 🥐</h3>
 </div>
 <br>
 <div align="center">
@@ -42,6 +42,7 @@
       <img src=
       "https://img.shields.io/badge/SELF-%20MOTIVATION%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
+  <h1>¯\_༼ ಥ ‿ ಥ ༽_/¯</h1>
 </div>
 
 ***
@@ -56,7 +57,7 @@
 
 <div align="center">
   <div>
-    <h2> Programming Languages 💻 </h2>
+    <h2> Programming Languages ᕙ༼*◕_◕*༽ᕤ </h2>
     <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="logos/C.svg" width="150px" height="150px">
     </a>
       </a>
@@ -64,7 +65,7 @@
 </div>
 <div align="center">
   <div>
-    <h2> Interested in mastering :</h2>
+    <h2> Interested in mastering ◉‿◉</h2>
     <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg" height="150px">
     </a> 
     <a href="https://www.docker.com"><img src="logos/docker.svg"       width="200px" height="200px">
@@ -77,7 +78,8 @@
 </div>
 <br>
 <div align="center">
-    <h2> Statistics :</h2>
+    <h2> Statistics </h2>
+    <h2> ┌╏ º □ º ╏┐      _________________________________                ༼⁰o⁰；༽ </h2>
 
 ![Pramodh's github stats](https://github-readme-stats.vercel.app/api?username=ThiDraft&show_icons=true&theme=highcontrast)
 
